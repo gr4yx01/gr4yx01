@@ -1,4 +1,67 @@
-Hi, I am Henry Nnamani, Currently a student of the University of Nigeria, Nsukka and majoring in Computer Science while also being a self taught developer mastering React.js for frontend. I'm interested in Web development and Blockchain development.
-I'm looking to collaborate on projects or startups involving geeks and visionaries.
+# TIME AND TIDE WAITS FOR NO MAN
 
-You can contact me on hoyx0101@gmail.com.
+##### . 👋 Hi, I’m Henry Nnamani
+##### . 👀 Lover of Open Source contribution and Blockchain 
+##### . 🌱 I’m currently into blockchain, with the use of Meta mask, Web3, and solidity
+##### . 🌱 Ask me anything about coding with React and node.js
+##### . 💞️ I’m looking to collaborate on any project using NodeJS, React, and Postgresql
+##### . 📫 How to reach me hoyx0101@gmail.com
+<!-- ##### . 👨🏻‍💻 Portfolio : [https://johnoseni.co/](https://johnoseni.co/) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=asahelcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=asahelcode&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asahelcode&theme=dark)](https://git.io/streak-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asahelcode&langs_count=5&theme=tokyonight)]()
+
+![](https://komarev.com/ghpvc/?username=asahelcode&color=green)
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=asahelcode&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=asahelcode&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  
+  
+  
+
+</p>
+
