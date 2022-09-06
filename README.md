@@ -8,8 +8,6 @@
 ##### . 📫 How to reach me hoyx0101@gmail.com
 <!-- ##### . 👨🏻‍💻 Portfolio : [https://johnoseni.co/](https://johnoseni.co/) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asahelcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=asahelcode&count_private=true&theme=tokyonight&showicons=true)]()
 
