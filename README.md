@@ -6,6 +6,8 @@
 ##### . 🌱 Ask me anything about coding with React and node.js
 ##### . 💞️ I’m looking to collaborate on any project using NodeJS, React, and Postgresql
 ##### . 📫 How to reach me hoyx0101@gmail.com
+##### . ⚠️ Make sure you have your CONTRIBUTING.md ready.
+
 <!-- ##### . 👨🏻‍💻 Portfolio : [https://johnoseni.co/](https://johnoseni.co/) -->
 
 
