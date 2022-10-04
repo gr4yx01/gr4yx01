@@ -13,7 +13,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=asahelcode&count_private=true&theme=tokyonight&showicons=true)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asahelcode&theme=tokyonight)
  Save
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asahelcode&theme=dark)](https://git.io/streak-stats)
