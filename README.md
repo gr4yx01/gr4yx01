@@ -15,8 +15,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asahelcode&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asahelcode&langs_count=5&theme=tokyonight)]()
-
 ![](https://komarev.com/ghpvc/?username=asahelcode&color=green)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=asahelcode&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
