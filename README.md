@@ -20,6 +20,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=asahelcode&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://github-readme-stats.vercel.app/api?username=asahelcode&show_icons=true&count_private=true&hide_border=true" align="left" />
+
 
 
 ## 🧰 Languages and Tools:
