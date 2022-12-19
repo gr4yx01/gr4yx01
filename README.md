@@ -8,13 +8,13 @@
   
 # 💫About Me :
 
-  🌱 I’m currently learning : Solidity.
+  🌱 I’m currently learning : Kotlin.
 
   👯 I’m looking to collaborate on web3 projects
 
-  🤔 I'm curious about the blockchain
+  🤔 I'm curious about the mobile app development
 
-  💬 Ask me about React.js, Node.js and Typescript
+  💬 Ask me about kotlin
 
   📫 How to reach me:  
   Mail me at hoyx0101@gmail.com or 
@@ -31,13 +31,13 @@
 
 ### Languages
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   
-### Libraries and Frameworks
+<!-- ### Libraries and Frameworks
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
- ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
  
  
    
@@ -46,19 +46,17 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 </br>
 
 ## Technologies I'm interested to learn more 
 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+<!--   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) -->
+<!--   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql) -->
 </br>
 
 # 📊GitHub Stats :
@@ -66,5 +64,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asahelcode&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asahelcode&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=asahelcode&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
