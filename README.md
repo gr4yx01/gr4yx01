@@ -8,13 +8,13 @@
   
 # 💫About Me :
 
-  🌱 I’m currently learning : Kotlin.
+  🌱 I’m currently learning : Nodejs, React-Native.
 
-  👯 I’m looking to collaborate on web3 projects
+  👯 I’m looking to collaborate on mobile development and Nodejs projects
 
   🤔 I'm curious about the mobile app development
 
-  💬 Ask me about kotlin
+  💬 Ask me about Nodejs
 
   📫 How to reach me:  
   Mail me at hoyx0101@gmail.com or 
@@ -34,11 +34,13 @@
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   
-<!-- ### Libraries and Frameworks
+### Libraries and Frameworks
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
- ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
+ ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
  
+ 
+41
  
    
 ### Infrastructure and DevOps
