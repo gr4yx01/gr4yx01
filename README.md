@@ -54,9 +54,7 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 </br>
 
-## Technologies I'm interested to learn more 
 
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 <!--   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) -->
 <!--   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql) -->
 </br>
