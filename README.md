@@ -1,7 +1,7 @@
 # Welcome to Henry's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
-     <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Code%2C+Build%2C+and+Test.;Code+controls+the+world.;Risk+it+now%2C+nothing+is+100%25+sure.;god+of+smart+contracts."></a>
+     <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Code%2C+Build%2C+and+Test.;Code+controls+the+world.;Risk+it+now%2C+nothing+is+100%25+sure."></a>
 </p>
 
 ---
