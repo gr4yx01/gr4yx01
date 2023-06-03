@@ -4,7 +4,7 @@
   
 # 💫About Me :
 
-  🌱 I’m currently learning : Nodejs, React-Native, Next.
+  🌱 I’m currently learning : Nodejs, React-Native, Nextjs.
 
   👯 I’m looking to collaborate on mobile development, Nodejs projects and Fullstack Applications
 
