@@ -4,11 +4,11 @@
   
 # 💫About Me :
 
-  🌱 I’m currently learning : Nodejs, React-Native.
+  🌱 I’m currently learning : Nodejs, React-Native, Next.
 
-  👯 I’m looking to collaborate on mobile development and Nodejs projects
+  👯 I’m looking to collaborate on mobile development, Nodejs projects and Fullstack Applications
 
-  🤔 I'm curious about the mobile app development
+  🤔 I'm curious about building valuable softwares
 
   💬 Ask me about Nodejs
 
