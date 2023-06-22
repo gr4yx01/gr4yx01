@@ -1,12 +1,12 @@
-# Welcome to m1000 profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Welcome to Henry's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ---
   
 # 💫About Me :
 
-  🌱 I’m currently learning : Nodejs, React-Native, Nextjs.
+  🌱 I’m currently learning : NodeJS, ReactJS, NextJS.
 
-  👯 I’m looking to collaborate on mobile development, Nodejs projects and Fullstack Applications
+  👯 I’m looking to collaborate on open source projects
 
   🤔 I'm curious about building valuable softwares
 
