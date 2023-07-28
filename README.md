@@ -4,13 +4,13 @@
   
 # 💫About Me :
 
-  🌱 I’m currently learning : NodeJS, ReactJS, NextJS.
+  🌱 I’m currently learning: Golang.
 
-  👯 I’m looking to collaborate on open source projects
+  👯 I’m looking to collaborate on open-source projects
 
-  🤔 I'm curious about building valuable softwares
+  🤔 I'm curious about building valuable software
 
-  💬 Ask me about Nodejs
+  💬 Ask me about Golang, React
 
   📫 How to reach me:  
   Mail me at hoyx0101@gmail.com or 
@@ -34,6 +34,8 @@
  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
  ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
  ![React.native](https://img.shields.io/badge/-React.Native-333333?style=flat&logo=React.Native)
+ ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=golang)
+ 
  
  
 41
