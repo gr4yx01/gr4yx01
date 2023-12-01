@@ -13,25 +13,19 @@
 
 
 <br><br>
-<h4>I'm a Full Stack Developer 🚀 from Enugu, Nigeria. Beside's programming, I enjoy reading non-fictions and listening to music.</h4>
+<h4>I'm a Programmer 🚀 from Enugu, Nigeria. Beside's programming, I enjoy reading non-fictions, biographies and listening to music.</h4>
 <br>
 <b>Talking about Personal Stuffs:</b>
 
-- 👨🏽‍💻 I’m getting familiar with Golang :wink:;
+- 👨🏽‍💻 I’m getting familiar with React,Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM :wink:;
 
-- 🌱 I’m currently learning about **Building a valuable software**
+- 🌱 I’m currently learning about **Building scalable applications** and also Mobile application development with React Native
 
-- 👨‍💻 All about me is at [My Website](https://***.github.io/)
-
-- 📝 Mostly I work on Applications based on TypeScript, JS, NodeJs ,!
+- 📝 Mostly I work on Applications based on TypeScript, React, NodeJs ,!
 
 - 💬 Ask me about anything, I am happy to help;
 
 - 📫 How to reach me hoyx0101@gmail.com
-
-
- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1pZFM52WYc9W8K2_LpRS3M9KvgWRhz8sC/view?usp=sharing)
-
 
 
 
