@@ -27,6 +27,8 @@
 
 - 📫 How to reach me hoyx0101@gmail.com
 
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/asahelcode/langs)](https://githubtrends.io)
+
 
 
   <img align="right" alt="GIF" src="https://github.com/asahelcode/asahelcode/blob/master/code.gif?raw=true" width="500" height="320" />
