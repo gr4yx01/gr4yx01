@@ -27,19 +27,17 @@
 </a>
 
 
-
-
   <img align="right" alt="GIF" src="https://github.com/asahelcode/asahelcode/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 
 <h2>Projects:</h2> <br>
-  - [Okyp](https://okyp.vercel.app) - A mini website built for soccer fans that display a footballer picture and requires the   user to select the right name of the player.
+- [Okyp](https://okyp.vercel.app) - A mini website built for soccer fans that display a footballer picture and requires the   user to select the right name of the player.
    ```
     Technology used: | Hanko Auth | React | Supabase |
     Duration: 1 weeks
    ```
 
-<br>
+<br><br>
 <h2>Languages and Tools:</h2> 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -51,7 +49,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
 </code>
-
+<br><br>
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/asahelcode/langs)](https://githubtrends.io)
 
