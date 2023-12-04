@@ -31,7 +31,8 @@
 <br>
 
 <h2>Projects:</h2> <br>
-- [Okyp](https://okyp.vercel.app) - A mini website built for soccer fans that display a footballer picture and requires the   user to select the right name of the player.
+
+-[Okyp](https://okyp.vercel.app) - A mini website built for soccer fans that display a footballer picture and requires the   user to select the right name of the player.
    ```
     Technology used: | Hanko Auth | React | Supabase |
     Duration: 1 weeks
