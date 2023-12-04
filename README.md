@@ -36,7 +36,7 @@
    ```
     Technology used: | Hanko Auth | React | Supabase |
     Duration: 1 weeks
-    ```
+   ```
 
 
 **Languages and Tools:**  
