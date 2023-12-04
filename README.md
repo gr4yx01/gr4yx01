@@ -1,5 +1,5 @@
-# I'm Henry Nnamani 
-### Hallo there  ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# I'm Henry
+### Hello there  ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/jedi_c0de">
   <img align="left" alt="Henry Nnamani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
@@ -13,11 +13,11 @@
 
 
 <br><br>
-<h4>I'm a Programmer 🚀 from Enugu, Nigeria. Beside's programming, I enjoy reading non-fictions, biographies and listening to music.</h4>
+<h4>I'm a Programmer 🚀 from Ebonyi, Nigeria.</h4>
 <br>
 <b>Talking about Personal Stuffs:</b>
 
-- 👨🏽‍💻 I’m getting familiar with React,Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM :wink:;
+- 👨🏽‍💻 I’m getting familiar with React,Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma;
 
 - 🌱 I’m currently learning about **Building scalable applications** and also Mobile application development with React Native
 
