@@ -33,8 +33,8 @@
 
   <img align="right" alt="GIF" src="https://github.com/asahelcode/asahelcode/blob/master/code.gif?raw=true" width="500" height="320" />
 
-  **Projects:**
-  [Okyp](https://okyp.vercel.app) - A mini website built for soccer fans that display a footballer picture and requires the     user to select the right name of the player.
+  **Projects:** <br>
+  - [Okyp](https://okyp.vercel.app) - A mini website built for soccer fans that display a footballer picture and requires the   user to select the right name of the player.
    ```
     Technology used: | Hanko Auth | React | Supabase |
     Duration: 1 weeks
