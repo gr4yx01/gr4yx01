@@ -13,7 +13,7 @@
 
 
 <br><br>
-<h4>I'm a Programmer 🚀 from Ebonyi, Nigeria.</h4>
+<h4>I'm a Programmer 🚀. Aside programming I read alot, my favorite author are James Bach, Alex Zhu, Robert Martins and Jeff Atwood(Articles)</h4>
 <br>
 <b>Talking about Personal Stuffs:</b>
 
