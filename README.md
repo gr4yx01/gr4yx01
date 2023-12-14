@@ -8,7 +8,7 @@
 
 - 👨🏽‍💻 I’m getting familiar with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma;
 
-- 🌱 I’m currently learning about **Building scalable applications** and also Mobile application development with React Native
+- 🌱 I’m currently learning about **Building scalable mobile application with React Native**
 
 - 📝 Mostly I work on Applications based on TypeScript, React, and NodeJS
 
