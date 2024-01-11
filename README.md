@@ -8,7 +8,7 @@
 
 - 👨🏽‍💻 I’m getting familiar with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma;
 
-- 🌱 I’m currently learning about **Building scalable mobile application with React Native**
+- 🌱 I’m currently learning about **Building scalable web applications**
 
 - 📝 Mostly I work on Applications based on TypeScript, React, and NodeJS
 
@@ -32,11 +32,7 @@
 
 <h2>Projects:</h2> <br>
 
-- [Okyp](https://okyp.vercel.app) - A mini website built for soccer fans that display a footballer picture and requires the   user to select the right name of the player.
-   ```
-    Technology used: | Hanko Auth | React | Supabase |
-    Duration: 1 weeks
-   ```
+- 
 
 <br><br>
 <h2>Languages and Tools:</h2> 
