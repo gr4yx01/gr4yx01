@@ -6,7 +6,7 @@
 <br>
 <b>Talking about Personal Stuffs:</b>
 
-- 👨🏽‍💻 I’m getting familiar with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma;
+- 👨🏽‍💻 I work with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma;
 
 - 🌱 I’m currently learning about **Building scalable web applications**
 
