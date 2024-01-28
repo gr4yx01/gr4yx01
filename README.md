@@ -32,7 +32,9 @@
 
 <h2>Projects:</h2> <br>
 
-- 
+- Geegpay Analytics Dashboard : [Live](https://geegpay-challenge-seven.vercel.app/)
+  
+  > This is a responsive page built in accordance with the online challenge hosted by geegpay company.
 
 <br><br>
 <h2>Languages and Tools:</h2> 
