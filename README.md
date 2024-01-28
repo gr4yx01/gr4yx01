@@ -1,7 +1,6 @@
 # Hello, I'm Henry ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- 
 
-<br><br>
+<br>
 <h4>I'm a Programmer meaning I am not limited to a language, they're all tools 🚀. <br> <h6>Aside from programming I read a lot, my favorite authors are James Bach, Alex Zhu, Robert Martins, and Jeff Atwood(Articles)</h6></h4>
 <br>
 <b>Talking about Personal Stuffs:</b>
@@ -14,7 +13,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 📫 How to reach me hoyx0101@gmail.com
+- 📫 How to reach me henrynnamani12304@gmail.com
 
 <a href="https://twitter.com/jedi_c0de">
 <img align="left" alt="Henry Nnamani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
