@@ -1,8 +1,8 @@
-# I'm Henry
-### Hello there ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello, I'm Henry ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
 
 <br><br>
-<h4>I'm a Programmer 🚀. <br> <h6>Aside from programming I read a lot, my favorite authors are James Bach, Alex Zhu, Robert Martins, and Jeff Atwood(Articles)</h6></h4>
+<h4>I'm a Programmer meaning I am not limited to a language, they're all tools 🚀. <br> <h6>Aside from programming I read a lot, my favorite authors are James Bach, Alex Zhu, Robert Martins, and Jeff Atwood(Articles)</h6></h4>
 <br>
 <b>Talking about Personal Stuffs:</b>
 
