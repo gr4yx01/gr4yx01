@@ -5,9 +5,10 @@
 <br>
 <b>Talking about Personal Stuffs:</b>
 
-- 👨🏽‍💻 I work with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma;
+- 👨🏽‍💻 I work with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma, NestJs, TailwindCSS
 
 - 🌱 I’m currently learning about **Building scalable web applications**
+- 📝 Learning Django by teaching it @Nanocodes
 
 - 📝 Mostly I work on Applications based on TypeScript, React, and NodeJS
 
