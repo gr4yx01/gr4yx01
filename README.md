@@ -8,11 +8,10 @@
 - 👨🏽‍💻 I work with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma, NestJs, TailwindCSS
 
 - 🌱 I’m currently learning about **Building scalable web applications**
-- 📝 Learning Django by teaching it @Nanocodes
+- 
+- 📝 Mostly I work on Applications based on TypeScript, React, Graphql and NodeJs
 
-- 📝 Mostly I work on Applications based on TypeScript, React, and NodeJS
-
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about web development, I am happy to help;
 
 - Desired benefits :) : Software engineering books and Internet
 
