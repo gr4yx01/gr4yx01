@@ -11,7 +11,6 @@
 - 🌱 I'm available for work (Remote, Onsite and Freelance)
 - 📝 Mostly I work on Applications based on TypeScript, React, Graphql and NodeJs
 - 💬 Ask me about web development, I am happy to help;
-- Desired benefits :) : Software engineering books and Internet
 
 - 📫 How to reach me henrynnamani12304@gmail.com
 
