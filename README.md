@@ -38,6 +38,30 @@
   > Built Andromedia with the team at Nanocodes Ltd
 ![Image](https://i.pinimg.com/736x/a8/69/a5/a869a559191cd3ad99e9d38994ee2ba3.jpg)
 
+- QuizGrad: [Live](https://quizgrad-eta.vercel.app)
+> I built this website as a I really lazy to read a particular course, so if I can get students around the campus to submit questions on the platform. I will benefit me and other students
+![Image](https://i.pinimg.com/736x/8f/65/7a/8f657a3031321270ca6592c977bfcef3.jpg)
+#### Technology
+- React
+- Typescript
+- Prisma
+- GraphQL
+- React-Relay
+- Zustand
+- TailwindCSS
+
+- Napss: [Live](https://napss.vercel.app)
+> I built this website to preserve the legacy of my faculty and department executives
+![Image](https://i.pinimg.com/736x/20/37/5b/20375b0ae76aeaf3e70207f67fcefb82.jpg)
+#### Technology
+- React
+- Typescript
+- Prisma
+- GraphQL
+- React-Relay
+- Zustand
+- TailwindCSS
+
 <br><br>
 <h2>Languages and Tools:</h2> 
 
