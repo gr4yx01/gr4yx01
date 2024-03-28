@@ -6,7 +6,6 @@
 <b>Talking about Personal Stuffs:</b>
 
 - 👨🏽‍💻 I work with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma, NestJs, TailwindCSS, React Native
-- I can also learn to cook something with your tech stack of choice, I just need to learn the recipe 
 - 🌱 I’m currently learning about **Building scalable web applications**
 - 🌱 I'm available for work (Remote, Onsite and Freelance)
 - 📝 Mostly I work on Applications based on TypeScript, React, Graphql and NodeJs
