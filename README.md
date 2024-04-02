@@ -41,8 +41,6 @@
   > Built to test my ability to fetch api endpoints
 ![Image](https://i.pinimg.com/736x/b7/60/78/b7607842a062c593ba26ca4aabbfc7fd.jpg)
 
-- LynxGym: [Live](https://lynxgym.netlify.app/)
-  ![Image](https://i.pinimg.com/originals/bd/2b/b8/bd2bb85728ae7c2d96443c815c3b7ad4.jpg)
 <br><br>
 <h2>Languages and Tools:</h2> 
 
