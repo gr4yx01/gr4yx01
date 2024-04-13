@@ -8,7 +8,7 @@
 - 👨🏽‍💻 I work with React, Typescript, NodeJs, GraphQL, PostgreSQL, TypeORM, Prisma, TailwindCSS, React Native
 - 🌱 I’m currently learning about **Building scalable web applications**
 - 🌱 I'm available for work (Remote, Onsite and Freelance)
-- 📝 Mostly I work on Applications based on TypeScript, React, Graphql and NodeJs
+- 📝 Mostly I work on web and mobile applications
 - 💬 Ask me about web development, I am happy to help;
 
 - 📫 How to reach me henrynnamani12304@gmail.com
