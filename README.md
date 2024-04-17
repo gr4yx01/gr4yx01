@@ -33,9 +33,6 @@
   
   > This is a responsive page built in accordance with the online challenge hosted by geegpay company.
 
-- Andromedia: [Live](https://andromedia.cc)
-  > Built Andromedia with the team at Nanocodes Ltd
-
 - MovieBox: [Live](https://zingy-liger-0bc2ba.netlify.app)
   > Built to test my ability to fetch api endpoints
 
