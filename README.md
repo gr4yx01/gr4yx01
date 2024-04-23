@@ -52,8 +52,6 @@
 </code>
 <br><br>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/asahelcode/langs)](https://githubtrends.io)
-
 <br>
 </br>
 
