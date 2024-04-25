@@ -37,6 +37,7 @@
 
 - Napss: [Live](https://napss.vercel.app)
   - Implemented a record system using ReactJs, Graphql, PostgresQL, Prisma and so on, which keeps a record of the Faculty of Physical Sciences Elected Executives at University of Nigeria, Nsukka
+  **In case you care: Server is currently running on free tier, so it's takes a bit of seconds to get the server up, as it sleeps during inactivity**
 
 <br><br>
 <h2>Languages and Tools:</h2> 
