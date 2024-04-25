@@ -29,14 +29,14 @@
 
 <h2>Projects:</h2> <br>
 
-- Geegpay Analytics Dashboard : [Live](https://geegpay-challenge-seven.vercel.app/)
-  
-  > This is a responsive page built in accordance with the online challenge hosted by geegpay company.
-
 - MovieBox: [Live](https://zingy-liger-0bc2ba.netlify.app)
-  > Built to test my ability to fetch api endpoints
+  - Built a movie website using React, integrating it with a RAPIDAPI endpoint which led to a site that displays and filter around 500 movies
+ 
+- Nanocodes website: [Live](https://nanocodes.com.ng)
+  - Completely finalized and launched the company website during my internship, alongside other interns. Around 35 students were able to register for a digital skillset on the website.
 
 - Napss: [Live](https://napss.vercel.app)
+  - Implemented a record system using ReactJs, Graphql, PostgresQL, Prisma and so on, which keeps a record of the Faculty of Physical Sciences Elected Executives at University of Nigeria, Nsukka
 
 <br><br>
 <h2>Languages and Tools:</h2> 
