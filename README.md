@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning about **Building scalable web and mobile applications**
 - 🌱 I'm available for work (Remote, Onsite and Freelance)
 - 📝 Mostly I work on web and mobile applications
-- 💬 Ask me about web development, I am happy to help;
+- 💬 Execution >>> Idea
 
 - 📫 How to reach me henrynnamani12304@gmail.com
 
