@@ -30,13 +30,21 @@
 <h2>Projects:</h2> <br>
 
 - MovieBox: [Live](https://zingy-liger-0bc2ba.netlify.app)
-  - Built a movie website using React, integrating it with a RAPIDAPI endpoint which led to a site that displays and filter around 500 movies
+  - Integrated it with a RAPIDAPI endpoint which leading to a site that displays and filter around 500 movies
+      ```
+        Technology used: Reactjs
+      ```
  
 - Nanocodes website: [Live](https://nanocodes.com.ng)
   - Completely finalized and launched the company website during my internship, alongside other interns. Around 35 students were able to register for a digital skillset on the website.
-
+    ```
+      Technologies used: Reactjs, TailwindCSS, SWR, JwtToken
+    ```
 - Napss: [Live](https://napss.vercel.app)
-  - Implemented a record system using ReactJs, Graphql, PostgresQL, Prisma and so on, which keeps a record of the Faculty of Physical Sciences Elected Executives at University of Nigeria, Nsukka
+  - A contracted website which keeps a record of the Faculty of Physical Sciences Elected Executives at University of Nigeria, Nsukka
+    ```
+     Technologies used: ReactJs, TailwindCSS, SWR, GraphQL, Prisma, PostgreSQL, ExpressJs, Typescript
+    ```
   **In case you care: Server is currently running on free tier, so it's takes a bit of seconds to get the server up, as it sleeps during inactivity**
 
 <br><br>
