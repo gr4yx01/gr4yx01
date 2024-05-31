@@ -5,7 +5,7 @@
 <br>
 <b>Talking about Personal Stuffs:</b>
 
-- 👨🏽‍💻 I work with ReactJs, Typescript, GraphQL, PostgreSQL, TypeORM, Prisma, ExpressJs,  React Native
+- 👨🏽‍💻 I work with ReactJs, Typescript, GraphQL, PostgreSQL, TypeORM, Prisma, ExpressJs, React Native, Scala
 - 🌱 I’m currently learning about **Building scalable web and mobile applications**
 - 🌱 I'm available for work (Remote, Onsite and Freelance)
 - 📝 Mostly I work on web and mobile applications
