@@ -32,12 +32,6 @@
         Technology used: Reactjs
       ```
  
-- Nanocodes website: [Live](https://nanocodes.com.ng)
-  - finalized and launched the company website during my internship, alongside other interns. About 5 students were able to register for a digital skillset on the website.
-    ```
-      Technologies used: Reactjs, TailwindCSS, SWR, JwtToken
-    ```
-
 - Bulloak ( An investment platform ): [Live](https://bulloakltd.com), Frontend Techlead
   - Finally launched this product just at the end of my internship at Nanocodes programming Limited
   - Revamped dashboard Interface
