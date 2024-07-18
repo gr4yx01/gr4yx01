@@ -31,14 +31,6 @@
       ```
         Technology used: Reactjs
       ```
- 
-- Bulloak ( An investment platform ): [Live](https://bulloakltd.com), Frontend Techlead
-  - Finally launched this product just at the end of my internship at Nanocodes programming Limited
-  - Revamped dashboard Interface
-  - Connected the entire endpoints for withdrawal, deposit and transfer page
-    ```
-      Technologies used: ReactJs, SWR, JavaScript, Axios
-    ```
     
 - Napss: [Live](https://napss.vercel.app)
   - A contracted website which keeps a record of the Faculty of Physical Sciences Elected Executives at University of Nigeria, Nsukka
