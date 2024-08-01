@@ -25,12 +25,6 @@
 <br>
 
 <h2>Projects:</h2> <br>
-
-- MovieBox: [Live](https://zingy-liger-0bc2ba.netlify.app)
-  - Integrated it with a RAPIDAPI endpoint which leading to a site that displays and filter around 500 movies
-      ```
-        Technology used: Reactjs
-      ```
     
 - Napss: [Live](https://napss.vercel.app)
   - A contracted website which keeps a record of the Faculty of Physical Sciences Elected Executives at University of Nigeria, Nsukka
