@@ -1,55 +1,32 @@
-# Hello, I'm Henry ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Henry</h1>
+<h3 align="center">A Software Engineer from Nigeria</h3>
 
-<br>
-<h4>I'm a Programmer meaning I am not limited to a language, they're all tools 🚀. <br> <h6>Aside from programming I read a lot, my favorite authors are James Bach, Alex Zhu, Robert Martins, and Jeff Atwood(Articles)</h6></h4>
-<br>
-<b>Talking about Personal Stuffs:</b>
+<p align="left"> <a href="https://twitter.com/syntaxslayer" target="blank"><img src="https://img.shields.io/twitter/follow/syntaxslayer?logo=twitter&style=for-the-badge" alt="syntaxslayer" /></a> </p>
 
+- 🔭 I’m currently working on **a shopping app**
 
-- 🌱 I'm available for work (Remote, Onsite and Freelance)
-- 📝 Mostly I work on web and mobile applications
-- 📫 How to reach me henrynnamani12304@gmail.com
+- 🌱 I’m currently learning **Flutter**
 
-<a href="https://twitter.com/jedi_c0de">
-<img align="left" alt="Henry Nnamani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
-<a href="https://www.linkedin.com/in/asahelcode/">
-  <img align="left" alt="Henry Nnamani's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/henry nnamani/">
-  <img align="left" alt="Henry Nnamani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+- 👯 I’m looking to collaborate on **building mobile applications**
 
+- 💬 Ask me about **React Native, ReactJs, NestJs**
 
-  <img align="right" alt="GIF" src="https://github.com/asahelcode/asahelcode/blob/master/code.gif?raw=true" width="500" height="320" />
-<br>
+- 📫 How to reach me **henrynnamani12304@gmail.com**
 
-<h2>Projects:</h2> <br>
-    
-- Napss: [Live](https://napss.vercel.app)
-  - A contracted website which keeps a record of the Faculty of Physical Sciences Elected Executives at University of Nigeria, Nsukka
-    ```
-     Technologies used: ReactJs, TailwindCSS, SWR, GraphQL, Prisma, PostgreSQL, ExpressJs, Typescript
-    ```
-  **In case you care: Server is currently running on free tier, so it's takes a bit of seconds to get the server up, as it sleeps during inactivity**
+- 📄 Know about my experiences [https://flowcv.com/resume/vf6kgp32na](https://flowcv.com/resume/vf6kgp32na)
 
-<br><br>
-<h2>Languages and Tools:</h2> 
+- ⚡ Fun fact **I am an ambivert**
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
-</code>
-<br><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/syntaxslayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syntaxslayer" height="30" width="40" /></a>
+</p>
 
-<br>
-</br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0demercenary&show_icons=true&locale=en&layout=compact" alt="c0demercenary" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0demercenary&show_icons=true&locale=en" alt="c0demercenary" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0demercenary&" alt="c0demercenary" /></p>
