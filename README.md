@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/syntaxslayer" target="blank"><img src="https://img.shields.io/twitter/follow/syntaxslayer?logo=twitter&style=for-the-badge" alt="syntaxslayer" /></a> </p>
 
-- 🔭 I’m currently working on **a shopping app**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **building mobile applications**
 
 - 💬 Ask me about **React Native, ReactJs, NestJs**
