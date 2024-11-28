@@ -6,7 +6,6 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Mobile app developer` 
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I love building stuffs a lot
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,
