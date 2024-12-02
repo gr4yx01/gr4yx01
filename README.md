@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gray</h1>
+<h1 align="center">Hi 👋, I'm Graey</h1>
 <h3 align="center">A Software Engineer from Nigeria</h3>
 <h5 align="center" style="">As a man thinketh, so is he</h5>
 <br>
