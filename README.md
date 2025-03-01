@@ -8,7 +8,7 @@
 ## :sassy_man:  About me
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I love building stuffs a lot
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,
+- :thinking: I’m currently open for: `Internship` or a `job opportunity`,
 - :nerd_face: Always `learning new things`
 
 <h3 align="left">Languages and Tools:</h3>
